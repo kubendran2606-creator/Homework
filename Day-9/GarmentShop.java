@@ -5,7 +5,7 @@ class GarmentShop
 	{
 	Scanner sc = new Scanner(System.in);
 	
-		System.out.println("Welcome to Garment Shop");
+		System.out.println("Welcome to GarmentShop");
 		System.out.println("1.Men");
 		System.out.println("2.Women");
 		System.out.println("3.Kids");
