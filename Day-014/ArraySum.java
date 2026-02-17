@@ -8,4 +8,5 @@ class ArraySum
 		
 		System.out.println(a);
 	}
+	
 }
